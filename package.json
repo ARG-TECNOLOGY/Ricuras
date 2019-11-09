@@ -1,0 +1,26 @@
+{
+  "name": "rricuras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bootstrap.bundle.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARG-TECNOLOGY/Ricuras-Raquel.git"
+  },
+  "keywords": [
+    "ejemplo"
+  ],
+  "author": "ArgTecnology",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARG-TECNOLOGY/Ricuras-Raquel/issues"
+  },
+  "homepage": "https://github.com/ARG-TECNOLOGY/Ricuras-Raquel#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
